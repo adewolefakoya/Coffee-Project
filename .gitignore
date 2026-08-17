@@ -12,32 +12,6 @@ data/external/*
 !data/processed/README.md
 !data/external/README.md
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
 # Environment files
 .env
 .venv
@@ -46,22 +20,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# R
-.Rhistory
-.RData
-.Rproj.user
 
 # Temporary files
 *.log
